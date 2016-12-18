@@ -1,13 +1,14 @@
-# meteoFIB
+# MeteoFIB
 
 Proyecto orientado a la recolección de datos de una estación meteorológica, para poder ofrecer al usuario la posibilidad de visualizarlos mediante una aplicación web.
 
 # Apartados y funcionalidades
 - Home
 Es la pantalla de inicio de la web. En ella se puede apreciar el nombre de nuestro proyecto, MeteoFIB, junto con una pequeña descripción del mismo. Aquí también podemos encontrar un mapa que muestra la ubicación de nuestra estación, que será de donde obtenemos los diferentes datos meteorológicos de temperatura, humedad y presión atmosférica.
-
+![Alt text](/static/css/home.png?raw=true "Apartado Home")
 
 - Medición
+
 En este apartado se muestra una lista con diferentes horas. Estas corresponden a las horas en las que la estación ha recogido datos con los sensores. Podemos observar que, inicialmente el último elemento de la lista, que corresponde con la hora actual, contiene además los datos meteorológicos de la estación para aquella hora, que vemos en una pequeña tabla.
 
 Si deseamos ver por ejemplo, cuál era la temperatura o humedad a una determinada hora, solo hace falta hacer click en el elemento de la lista que contiene dicha hora. Al hacerlo, aparecerán estos datos en la pantalla y desaparecerán de la misma los que hasta el momento habían estado presentes.
@@ -16,6 +17,7 @@ Por último, podemos observar que en la parte inferior se encuentra otra secció
 
 
 - Estadísticas
+
 Aquí lo que se intenta es comparar la información que obtenemos con nuestros sensores con las que obtienen otros servicios, en este caso la Agencia Estatal de Meteorología (AEMET). 
 
 Para realizar esta comparación se utilizan dos gráficas, una para la temperatura y otra para la humedad relativa. Esto se debe a que AEMET no proporciona información de la presión atmosférica.
