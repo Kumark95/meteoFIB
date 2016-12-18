@@ -9,6 +9,8 @@ Es la pantalla de inicio de la web. En ella se puede apreciar el nombre de nuest
 
 ![Alt text](/static/img/home.png?raw=true "Apartado Home")
 
+
+
 - **Medición**
 
 En este apartado se muestra una lista con diferentes horas. Estas corresponden a las horas en las que la estación ha recogido datos con los sensores. Podemos observar que, inicialmente el último elemento de la lista, que corresponde con la hora actual, contiene además los datos meteorológicos de la estación para aquella hora, que vemos en una pequeña tabla.
@@ -20,6 +22,8 @@ Por último, podemos observar que en la parte inferior se encuentra otra secció
 ![Alt text](/static/img/medicion.png?raw=true "Apartado Medicion")
 
 
+
+
 - **Estadísticas**
 
 Aquí lo que se intenta es comparar la información que obtenemos con nuestros sensores con las que obtienen otros servicios, en este caso la Agencia Estatal de Meteorología (AEMET). 
@@ -29,6 +33,8 @@ Para realizar esta comparación se utilizan dos gráficas, una para la temperatu
 Estas gráficas, al igual que la lista en el apartado anterior, Medición, se crean dinámicamente mostrando solo la información relevante hasta la hora actual en la que nos encontremos.
 
 ![Alt text](/static/img/estadisticas.png?raw=true "Apartado Estadísticas")
+
+
 
 
 - **Suscripción**
@@ -61,6 +67,8 @@ El mensaje que el usuario recibiría cada semana sería el siguiente:
 ![Alt text](/static/img/sub5.png?raw=true "Mensaje de cancelación de suscripción")
 
 
+
+
 - **Contacto**
 
 Para aquellos usuarios que sientan la necesidad de ponerse en contacto con nosotros existe este apartado. De esta forma, una vez rellenados los diferentes apartados, se procede a la validación como en el caso anterior, comprobando que los campos no esten vacios y en el caso del correo electrónico de contacto, sea válido.
@@ -79,9 +87,10 @@ Para recibir todos estos mensajes hemos creado un correo electrónico especial d
 ![Alt text](/static/img/contacto3.png?raw=true "Mensaje recibido")
 
 
+
+
 - **Sobre nosotros**
 
 Finalmente, este apartado muestra información sobre la composición de nuestro grupo.
 
 ![Alt text](/static/img/nosotros.png?raw=true "Apartado Sobre Nosotros")
-
