@@ -3,9 +3,10 @@
 Proyecto orientado a la recolección de datos de una estación meteorológica, para poder ofrecer al usuario la posibilidad de visualizarlos mediante una aplicación web.
 
 # Apartados y funcionalidades
-- Home
+- **Home**
+
 Es la pantalla de inicio de la web. En ella se puede apreciar el nombre de nuestro proyecto, MeteoFIB, junto con una pequeña descripción del mismo. Aquí también podemos encontrar un mapa que muestra la ubicación de nuestra estación, que será de donde obtenemos los diferentes datos meteorológicos de temperatura, humedad y presión atmosférica.
-![Alt text](/static/css/home.png?raw=true "Apartado Home")
+![Alt text](/static/img/home.png?raw=true "Apartado Home")
 
 - Medición
 
