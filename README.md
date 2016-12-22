@@ -17,9 +17,11 @@ En este apartado se muestra una lista con diferentes horas. Estas corresponden a
 
 Si deseamos ver por ejemplo, cuál era la temperatura o humedad a una determinada hora, solo hace falta hacer click en el elemento de la lista que contiene dicha hora. Al hacerlo, aparecerán estos datos en la pantalla y desaparecerán de la misma los que hasta el momento habían estado presentes.
 
+![Alt text](/static/img/1.png?raw=true "Apartado Medicion")
+
 Por último, podemos observar que en la parte inferior se encuentra otra sección, en ella se muestran los datos que la estación ha ido obteniendo de la última semana, mostrando así los valores medios de temperatura, humedad relativa y presión atmosférica de todos estos días.
 
-![Alt text](/static/img/medicion.png?raw=true "Apartado Medicion")
+![Alt text](/static/img/2.png?raw=true "Apartado Medicion")
 
 
 
@@ -32,7 +34,7 @@ Para realizar esta comparación se utilizan dos gráficas, una para la temperatu
 
 Estas gráficas, al igual que la lista en el apartado anterior, Medición, se crean dinámicamente mostrando solo la información relevante hasta la hora actual en la que nos encontremos.
 
-![Alt text](/static/img/estadisticas.png?raw=true "Apartado Estadísticas")
+![Alt text](/static/img/3.png?raw=true "Apartado Estadísticas")
 
 
 
@@ -61,7 +63,7 @@ El mensaje que el usuario recibiría cada semana sería el siguiente:
 ![Alt text](/static/img/sub3.png?raw=true "Informe semanal de MeteoFIB")
 
 
-![Alt text](/static/img/sub4.png?raw=true "Información de suscripción")
+![Alt text](/static/img/4.png?raw=true "Información de suscripción")
 
 
 ![Alt text](/static/img/sub5.png?raw=true "Mensaje de cancelación de suscripción")
