@@ -62,8 +62,12 @@ El mensaje que el usuario recibiría cada semana sería el siguiente:
 
 ![Alt text](/static/img/sub3.png?raw=true "Informe semanal de MeteoFIB")
 
+Si seguimos el link que se encuentra en el mensaje nos lleva a la información que ha recogido nuestra estación durante la semana. Y en caso de que el usuario haya elegido también recibir información de la predicción de Aemet, así se verá reflejado.
+
 
 ![Alt text](/static/img/4.png?raw=true "Información de suscripción")
+
+El segundo link que se puede apreciar en el mensaje del Informe semanal, sirve para que el usuario pueda cancelar su suscripción en cualquier momento. Al hacerlo, se elimina su información de nuestra base de datos y se le muestra el siguiente mensaje.
 
 
 ![Alt text](/static/img/sub5.png?raw=true "Mensaje de cancelación de suscripción")
